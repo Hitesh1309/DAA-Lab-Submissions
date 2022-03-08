@@ -3,7 +3,7 @@ Design and Analysis of Algorithms Lab Course @IIITDM, 2021.
 ## Team
 ```
 D Abishek        - CS20B1064
-Nithish Vasanth  - CS20B1064
+Nithish Vasanth  - CS20B1068
 Ryan A           - CS20B1094
 K Hitesh Gupta   - CS20B1127
 ```
