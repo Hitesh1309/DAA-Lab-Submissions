@@ -1,3 +1,15 @@
+/*
+Logic:-
+Divide and conquer 2 way
+
+- Take first 2 elements and store min/max in a[0], take min/max of next 2 elements and store in a[1], and so on
+- You end up with n/2 elements now, do step 1again and you end up with n/4 elements.
+- Do till you end up with one element in the array and it will be the min
+- If you want second min update the min in the array as 100000 and if you want second max update the max in the array as -100000 and do step 1 and 2 again.
+- You get the second max and second min.
+
+*/
+
 #include <iostream>
 using namespace std;
 
